@@ -1,1 +1,11 @@
-{}
+# documentation: https://conda-forge.org/docs/maintainer/conda_forge_yml.html
+channels:
+  sources:
+    - zeroae
+    - conda-forge
+    - defaults
+  targets:
+    - ["zeroae", "main"]
+      #github:
+      #  user_or_org: zeroae
+upload_on_branch: master
