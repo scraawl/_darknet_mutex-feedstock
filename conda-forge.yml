@@ -6,6 +6,8 @@ channels:
     - defaults
   targets:
     - ["zeroae", "main"]
+azure:
+  user_or_org: zeroae
 github:
   user_or_org: zeroae
   branch: master
