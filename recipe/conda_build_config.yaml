@@ -1,3 +1,7 @@
+channel_sources:
+  - zeroae,conda-forge,defaults
+channel_targets:
+  - zeroae main
 darknet_variant_version:
   - 1.1.0
   - 1.2.0

@@ -1,7 +1,7 @@
 channel_sources:
-- conda-forge,defaults
+- zeroae,conda-forge,defaults
 channel_targets:
-- conda-forge main
+- zeroae main
 darknet_variant_str:
 - cpu
 darknet_variant_version:
