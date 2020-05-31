@@ -6,6 +6,6 @@ channels:
     - defaults
   targets:
     - ["zeroae", "main"]
-      #github:
-      #  user_or_org: zeroae
-upload_on_branch: master
+github:
+  user_or_org: zeroae
+  branch: master
