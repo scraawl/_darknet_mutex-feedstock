@@ -25,4 +25,4 @@ about:
     `gpu`, which is compiled with GPU=1;
 extra:
   recipe-maintainers:
-    - conda-forge/go
+    - sodre
