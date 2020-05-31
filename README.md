@@ -20,8 +20,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_darknet_mutex-feedstock?branchName=master">
+      <a href="https://dev.azure.com/zeroae/feedstock-builds/_build/latest?definitionId=&branchName=master">
+        <img src="https://dev.azure.com/zeroae/feedstock-builds/_apis/build/status/_darknet_mutex-feedstock?branchName=master">
       </a>
     </td>
   </tr>
@@ -68,7 +68,7 @@ opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
 `zeroae` channel, whereupon the built conda packages will be available for
 everybody to install and use from the `zeroae` channel.
-Note that all branches in the conda-forge/_darknet_mutex-feedstock are
+Note that all branches in the zeroae/_darknet_mutex-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks and branches in the main repository should only be used to
 build distinct package versions.
