@@ -5,5 +5,5 @@ darknet_variant_str:
   - cpu
   - gpu
 zip_keys:
-  - darknet_variant_version
-  - darknet_variant_str
+  - - darknet_variant_version
+    - darknet_variant_str
