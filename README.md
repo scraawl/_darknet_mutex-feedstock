@@ -20,7 +20,7 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/zeroae/feedstock-builds/_build/latest?definitionId=&branchName=master">
+      <a href="https://dev.azure.com/zeroae/feedstock-builds/_build/latest?definitionId=1&branchName=master">
         <img src="https://dev.azure.com/zeroae/feedstock-builds/_apis/build/status/_darknet_mutex-feedstock?branchName=master">
       </a>
     </td>
@@ -83,5 +83,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/go](https://github.com/conda-forge/go/)
+* [@sodre](https://github.com/sodre/)
 
